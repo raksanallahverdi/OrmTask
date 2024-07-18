@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oriem", "Oriem\Oriem.csproj", "{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A11FEE7E-F993-4927-B8A2-D7185B541E84}
+	EndGlobalSection
+EndGlobal
