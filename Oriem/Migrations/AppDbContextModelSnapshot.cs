@@ -55,7 +55,7 @@ namespace Oriem.Migrations
 
                     b.HasIndex("TeacherId");
 
-                    b.ToTable("Groups");
+                    b.ToTable("Groups", (string)null);
                 });
 
             modelBuilder.Entity("Oriem.Entities.Student", b =>
@@ -93,7 +93,7 @@ namespace Oriem.Migrations
 
                     b.HasIndex("GroupId");
 
-                    b.ToTable("Students");
+                    b.ToTable("Students", (string)null);
                 });
 
             modelBuilder.Entity("Oriem.Entities.Teacher", b =>
@@ -119,7 +119,7 @@ namespace Oriem.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Teachers");
+                    b.ToTable("Teachers", (string)null);
                 });
 
             modelBuilder.Entity("Oriem.Entities.Group", b =>

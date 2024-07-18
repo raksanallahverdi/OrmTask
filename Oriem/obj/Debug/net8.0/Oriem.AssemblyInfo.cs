@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oriem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcd91ac8dc294c3fbf62a63ed4395133ed352cdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oriem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oriem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

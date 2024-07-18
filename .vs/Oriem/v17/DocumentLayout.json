@@ -3,56 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Services\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Services\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Migrations\\20240718165040_QueryFilterAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Migrations\\20240718165040_QueryFilterAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Migrations\\20240718081141_dateonlychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Migrations\\20240718081141_dateonlychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Contexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Contexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\oriem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\oriem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Constants\\ConnectionStrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Constants\\ConnectionStrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Entities\\Group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Entities\\Group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Constants\\Operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Constants\\Operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\constants\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\constants\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Constants\\Messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Constants\\Messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Services\\TeacherService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Services\\TeacherService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Services\\GroupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Services\\GroupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\migrations\\20240718081141_dateonlychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\migrations\\20240718081141_dateonlychanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Entities\\Teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Entities\\Teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Oriem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oriem\\Oriem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|c:\\users\\allah\\onedrive\\desktop\\oriem\\oriem\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372B9FA3-3EC0-46C7-A3EC-348F64A0938E}|Oriem\\Oriem.csproj|solutionrelative:oriem\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,35 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConnectionStrings.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Constants\\ConnectionStrings.cs",
-              "RelativeDocumentMoniker": "Oriem\\Constants\\ConnectionStrings.cs",
-              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Constants\\ConnectionStrings.cs",
-              "RelativeToolTip": "Oriem\\Constants\\ConnectionStrings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T09:10:25.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240718081141_dateonlychanged.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Migrations\\20240718081141_dateonlychanged.cs",
-              "RelativeDocumentMoniker": "Oriem\\Migrations\\20240718081141_dateonlychanged.cs",
-              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Migrations\\20240718081141_dateonlychanged.cs",
-              "RelativeToolTip": "Oriem\\Migrations\\20240718081141_dateonlychanged.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T08:11:41.505Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20240718165040_QueryFilterAdded.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Migrations\\20240718165040_QueryFilterAdded.cs",
+              "RelativeDocumentMoniker": "Oriem\\Migrations\\20240718165040_QueryFilterAdded.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Migrations\\20240718165040_QueryFilterAdded.cs",
+              "RelativeToolTip": "Oriem\\Migrations\\20240718165040_QueryFilterAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:50:41.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Oriem\\Services\\StudentService.cs",
@@ -98,8 +91,7 @@
               "RelativeToolTip": "Oriem\\Services\\StudentService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T07:37:14.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T07:37:14.823Z"
             },
             {
               "$type": "Document",
@@ -151,18 +143,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GroupService.cs",
-              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Services\\GroupService.cs",
-              "RelativeDocumentMoniker": "Oriem\\Services\\GroupService.cs",
-              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Services\\GroupService.cs",
-              "RelativeToolTip": "Oriem\\Services\\GroupService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:57:59.397Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Program.cs",
@@ -176,19 +156,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Oriem\\Contexts\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Contexts\\AppDbContext.cs",
               "RelativeToolTip": "Oriem\\Contexts\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T09:10:37.443Z"
+              "WhenOpened": "2024-07-18T09:10:37.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oriem.csproj",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Oriem.csproj",
+              "RelativeDocumentMoniker": "Oriem\\Oriem.csproj",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Oriem.csproj",
+              "RelativeToolTip": "Oriem\\Oriem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T07:34:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240718081141_dateonlychanged.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Migrations\\20240718081141_dateonlychanged.cs",
+              "RelativeDocumentMoniker": "Oriem\\Migrations\\20240718081141_dateonlychanged.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Migrations\\20240718081141_dateonlychanged.cs",
+              "RelativeToolTip": "Oriem\\Migrations\\20240718081141_dateonlychanged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:11:41.505Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Constants\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "Oriem\\Constants\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Constants\\ConnectionStrings.cs",
+              "RelativeToolTip": "Oriem\\Constants\\ConnectionStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:10:25.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "Oriem\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Services\\GroupService.cs",
+              "RelativeToolTip": "Oriem\\Services\\GroupService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:57:59.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Oriem\\Entities\\Student.cs",
@@ -200,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Entities\\Teacher.cs",
               "RelativeDocumentMoniker": "Oriem\\Entities\\Teacher.cs",
@@ -209,18 +239,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T12:31:25.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Oriem.csproj",
-              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Oriem.csproj",
-              "RelativeDocumentMoniker": "Oriem\\Oriem.csproj",
-              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\Oriem\\Oriem\\Oriem.csproj",
-              "RelativeToolTip": "Oriem\\Oriem.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-14T07:34:31.919Z"
             }
           ]
         }
